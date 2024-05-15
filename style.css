@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+body{
+background-color: aliceblue;
+font-family: "Poetsen One", sans-serif;
+}
+section{
+    width: 1200px;
+    margin: 0 auto;
+}
+header .logotipo{
+    float: left;
+}
+header .suporte{
+    float: right;
+}
+.logotipo img{
+    width: 150px;
+}
